@@ -39,8 +39,8 @@ const Register = () => {
                 <span className="label-text">Name</span>
               </label>
               <input
-              name="text"
-                type="name"
+              name="name"
+                type="text"
                 placeholder="name"
                 className="input input-bordered"
                 required
